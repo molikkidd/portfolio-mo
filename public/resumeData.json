@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Molik Kidd",
+    "occupation": "CEO of INDY MLO",
+    "description": "I am a REACT Developer",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Molik! I've been coding for over 4 years now. As a Full Stack developer I've created personal applications that are centered around ease of use and data collection. Along the journey I realized that coding is good for solving digital and physical problems, more so changing lives. With a new insight into the fabric of coding, I do my best to stay on top of the latest technology emerging in our space.",
+    "contactmessage": "Contact me at!",
+    "email": "mzkidd5@gmail.com",
+    "phone": "+1 323-421-0383",
+    "address": {
+      "street": "123 Dev Lane",
+      "city": "Los Angeles",
+      "state": "California",
+      "zip": "90008"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+   
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/molik-kidd",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mo_z.k/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/molikkidd",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Georgia State University",
+        "degree": "Bachelor's Degree, Biology",
+        "graduated": "Dec 2012",
+        "description": "Concentration on biomedical studies with minor in Chemistry"
+      }
+    ],
+    "work": [
+      {
+        "company": "INDY MLO",
+        "title": "Founder and CEO",
+        "years": "Jan 2022 - Present",
+        "description": "Mortgage Loan Originator centered Application to increase productivity"
+      }
+    ],
+    "skills": [
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "Express",
+        "level": "75%"
+      },
+      {
+        "name": "React.js/Next.js",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "75%"
+      },
+      {
+        "name": "Javascrit",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Mortgage App (Indy MLO)",
+        "category": "",
+        "image": "indymlo.png",
+        "url": "https://indy-mlo.herokuapp.com/"
+      },
+      {
+        "title": "Restaurant Reviews (Google MWS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "Momazon (Amazon Clone) ",
+        "category": "",
+        "image": "momazon.png",
+        "url": "https://momazon.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
