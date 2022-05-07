@@ -444,6 +444,9 @@ ul#nav li.current a { color: #F06000; }
 	-o-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
+
+   box-shadow: #a3a3a3 6px 6px 4px;
+   
 }
 .portfolio-item .item-wrap a {
    display: block;
@@ -647,7 +650,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/buddha_shanghai.JPG) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
