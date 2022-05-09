@@ -14,8 +14,8 @@
       "state": "California",
       "zip": "90008"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.molikkidd.com",
+    "resumedownload": "http://molikkidd.com",
     "social": [
    
       {
@@ -88,7 +88,7 @@
         "title": "Restaurant Reviews (Google MWS)",
         "category": "",
         "image": "mwshome.png",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "url": "https://github.com/molikkidd/Mobile_Web"
       },
       {
         "title": "Momazon (Amazon Clone) ",
@@ -101,12 +101,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "You gain a different perspective when you travel, life is the same every where, some cultures just have a different approach to the day to day.",
+        "user": "Anonymous"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Stay Organized, Focus, set SMART Goals, Follow Through",
+        "user": "V"
       }
     ]
   }
