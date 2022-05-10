@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Molik Kidd",
-    "occupation": "CEO of INDY MLO",
+    "occupation": "React Developer",
     "description": "I am a REACT Developer",
     "image": "profilepic.png",
     "bio": "Hi there! I am Molik! I've been coding for over 4 years now. As a Full Stack developer I've created personal applications that are centered around ease of use and data collection. Along the journey I realized that coding is good for solving digital and physical problems, more so changing lives. With a new insight into the fabric of coding, I do my best to stay on top of the latest technology emerging in our space.",
@@ -47,8 +47,8 @@
     ],
     "work": [
       {
-        "company": "INDY MLO",
-        "title": "Founder and CEO",
+        "company": "Indy MLO",
+        "title": "Creator",
         "years": "Jan 2022 - Present",
         "description": "Mortgage Loan Originator centered Application to increase productivity"
       }
