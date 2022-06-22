@@ -95,6 +95,12 @@
         "category": "",
         "image": "momazon.png",
         "url": "https://momazon.vercel.app/"
+      },
+      {
+        "title": "Uber Everywhere (Uber Clone) ",
+        "category": "",
+        "image": "uberShoot.png",
+        "url": "https://github.com/molikkidd/uber-everywhere"
       }
     ]
   },

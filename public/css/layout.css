@@ -417,7 +417,10 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
-
+img {
+   height: 200px;
+   width: auto;
+}
 #portfolio {
    background: #ebeeee;
    padding-top: 90px;
@@ -446,8 +449,9 @@ ul#nav li.current a { color: #F06000; }
 	transition: all 0.3s ease-in-out;
 
    box-shadow: #a3a3a3 6px 6px 4px;
-   
+   border-radius: 10px;
 }
+
 .portfolio-item .item-wrap a {
    display: block;
    cursor: pointer;
@@ -1014,3 +1018,8 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
+#portImg {
+   height: 100px;
+   width: 100px;
+}
