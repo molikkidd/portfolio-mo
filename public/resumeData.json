@@ -79,10 +79,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Mortgage App (Indy MLO)",
+        "title": "Google Clone 2024",
         "category": "",
-        "image": "indymlo.png",
-        "url": ""
+        "image": "g-clone.png",
+        "url": "https://google-clone-1-0.vercel.app/"
       },
       {
         "title": "Restaurant Reviews (Google MWS)",
